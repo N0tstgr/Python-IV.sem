@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb4fe1bf-6405-4a0a-bd7b-ac6cf8183f0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/Mutable.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/append.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/copy_example.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/extend.py" afterDir="false" />
@@ -42,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Mutable.executor": "Run",
     "Python.append.executor": "Run",
     "Python.copy.executor": "Run",
     "Python.copy_example (1).executor": "Run",
@@ -54,8 +56,8 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.copy_example (1)">
-    <configuration name="append" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Mutable">
+    <configuration name="Mutable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/append.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/Mutable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Mutable" />
         <item itemvalue="Python.copy_example (1)" />
         <item itemvalue="Python.copy_example" />
         <item itemvalue="Python.extend" />
         <item itemvalue="Python.insert" />
-        <item itemvalue="Python.append" />
       </list>
     </recent_temporary>
   </component>
