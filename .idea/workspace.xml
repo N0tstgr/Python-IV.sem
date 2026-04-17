@@ -13,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/copy_example.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/extend.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/len().py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/lessThan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/list.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/listSlicing.py" afterDir="false" />
@@ -21,6 +22,7 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/max.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/question.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/reversingList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,31 +50,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Divideby2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Listquestions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Mutable.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.append.executor&quot;: &quot;Run&quot;,
-    &quot;Python.copy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.copy_example (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.extend.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first.executor&quot;: &quot;Run&quot;,
-    &quot;Python.insert.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lessThan.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listSlicing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listcomprehension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.makePairs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.question.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reversingList.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Divideby2.executor": "Run",
+    "Python.Listquestions.executor": "Run",
+    "Python.Mutable.executor": "Debug",
+    "Python.append.executor": "Run",
+    "Python.copy.executor": "Run",
+    "Python.copy_example (1).executor": "Run",
+    "Python.extend.executor": "Run",
+    "Python.first.executor": "Run",
+    "Python.insert.executor": "Run",
+    "Python.len().executor": "Run",
+    "Python.lessThan.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.listSlicing.executor": "Run",
+    "Python.listcomprehension.executor": "Run",
+    "Python.makePairs.executor": "Run",
+    "Python.question.executor": "Run",
+    "Python.reversingList.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "run.code.analysis.last.selected.profile": "aDefault"
   }
-}</component>
-  <component name="RunManager" selected="Python.makePairs">
+}]]></component>
+  <component name="RunManager" selected="Python.listcomprehension">
     <configuration name="Divideby2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
@@ -117,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lessThan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="len()" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +134,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/lessThan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/len().py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listcomprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-IV SEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-IV.sem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/listcomprehension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,35 +187,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="question" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-IV SEM" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-IV.sem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/question.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.listcomprehension" />
+        <item itemvalue="Python.len()" />
         <item itemvalue="Python.makePairs" />
         <item itemvalue="Python.Mutable" />
         <item itemvalue="Python.Divideby2" />
-        <item itemvalue="Python.question" />
-        <item itemvalue="Python.lessThan" />
       </list>
     </recent_temporary>
   </component>
