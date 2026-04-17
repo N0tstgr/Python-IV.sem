@@ -21,7 +21,6 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/max.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/question.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/reversingList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,7 @@
     &quot;Python.list.executor&quot;: &quot;Run&quot;,
     &quot;Python.listSlicing.executor&quot;: &quot;Run&quot;,
     &quot;Python.listcomprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.makePairs.executor&quot;: &quot;Run&quot;,
     &quot;Python.question.executor&quot;: &quot;Run&quot;,
     &quot;Python.reversingList.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
