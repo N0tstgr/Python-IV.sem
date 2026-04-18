@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb4fe1bf-6405-4a0a-bd7b-ac6cf8183f0e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/5reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/Concatenation.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Divideby2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Listquestions.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/MakePairthirdtime.py" afterDir="false" />
@@ -20,6 +21,7 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/filterallthenumber.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/insert.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/len().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/len.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/lessThan.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/list.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/listSlicing.py" afterDir="false" />
@@ -62,6 +64,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.5reverse.executor": "Run",
+    "Python.Concatenation.executor": "Run",
     "Python.Divideby2.executor": "Run",
     "Python.Listquestions.executor": "Run",
     "Python.MakePairthirdtime.executor": "Run",
@@ -78,6 +81,7 @@
     "Python.first.executor": "Run",
     "Python.insert.executor": "Run",
     "Python.len().executor": "Run",
+    "Python.len.executor": "Run",
     "Python.lessThan.executor": "Run",
     "Python.list.executor": "Run",
     "Python.listSlicing.executor": "Run",
@@ -93,7 +97,29 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.StringImmutable">
+  <component name="RunManager" selected="Python.Concatenation">
+    <configuration name="Concatenation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-IV SEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-IV.sem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/Concatenation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MakePairthirdtime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
@@ -138,28 +164,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="divide" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-IV SEM" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-IV.sem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/divide.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="filterallthenumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
@@ -182,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="makepair2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="len" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,7 +199,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/makepair2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/len.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Concatenation" />
+        <item itemvalue="Python.len" />
         <item itemvalue="Python.StringImmutable" />
         <item itemvalue="Python.filterallthenumber" />
         <item itemvalue="Python.MakePairthirdtime" />
-        <item itemvalue="Python.makepair2" />
-        <item itemvalue="Python.divide" />
       </list>
     </recent_temporary>
   </component>
