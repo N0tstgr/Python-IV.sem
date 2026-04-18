@@ -10,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Listquestions.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Mutable.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/aktu2023-2024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/aktunew.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/append.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/copy_example.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/extend.py" afterDir="false" />
@@ -21,8 +22,12 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/listcomprehension.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/makePairs.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/newsol.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/question.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/reversingList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-IV SEM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-IV SEM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +62,7 @@
     "Python.Listquestions.executor": "Run",
     "Python.Mutable.executor": "Debug",
     "Python.aktu2023-2024.executor": "Run",
+    "Python.aktunew.executor": "Run",
     "Python.append.executor": "Run",
     "Python.copy.executor": "Run",
     "Python.copy_example (1).executor": "Run",
@@ -74,7 +80,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
-    "run.code.analysis.last.selected.profile": "aDefault"
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Python.aktu2023-2024">
@@ -92,6 +99,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/aktu2023-2024.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aktunew" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-IV SEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-IV.sem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/aktunew.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,35 +195,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="makePairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-IV SEM" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-IV.sem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/makePairs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.aktu2023-2024" />
+        <item itemvalue="Python.aktunew" />
         <item itemvalue="Python.lessThan" />
         <item itemvalue="Python.listcomprehension" />
         <item itemvalue="Python.len()" />
-        <item itemvalue="Python.makePairs" />
       </list>
     </recent_temporary>
   </component>
