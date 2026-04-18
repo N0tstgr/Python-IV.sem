@@ -8,12 +8,15 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/5reverse.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Divideby2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Listquestions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/MakePairthirdtime.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Mutable.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/aktu2023-2024.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/aktunew.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/append.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/copy_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/divide.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/extend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/filterallthenumber.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/insert.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/len().py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/lessThan.py" afterDir="false" />
@@ -21,6 +24,7 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/listSlicing.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/listcomprehension.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/makePairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/makepair2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/max.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/newsol.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/question.py" afterDir="false" />
@@ -59,12 +63,14 @@
     "Python.5reverse.executor": "Run",
     "Python.Divideby2.executor": "Run",
     "Python.Listquestions.executor": "Run",
+    "Python.MakePairthirdtime.executor": "Run",
     "Python.Mutable.executor": "Debug",
     "Python.aktu2023-2024.executor": "Run",
     "Python.aktunew.executor": "Run",
     "Python.append.executor": "Run",
     "Python.copy.executor": "Run",
     "Python.copy_example (1).executor": "Run",
+    "Python.divide.executor": "Run",
     "Python.extend.executor": "Run",
     "Python.first.executor": "Run",
     "Python.insert.executor": "Run",
@@ -74,6 +80,7 @@
     "Python.listSlicing.executor": "Run",
     "Python.listcomprehension.executor": "Run",
     "Python.makePairs.executor": "Run",
+    "Python.makepair2.executor": "Run",
     "Python.question.executor": "Run",
     "Python.reversingList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -83,7 +90,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.5reverse">
+  <component name="RunManager" selected="Python.filterallthenumber">
     <configuration name="5reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
@@ -106,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aktu2023-2024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MakePairthirdtime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/aktu2023-2024.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/MakePairthirdtime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aktunew" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="divide" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/aktunew.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/divide.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lessThan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="filterallthenumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +170,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/lessThan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/filterallthenumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listcomprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="makepair2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,7 +192,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/listcomprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/makepair2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.filterallthenumber" />
+        <item itemvalue="Python.MakePairthirdtime" />
+        <item itemvalue="Python.makepair2" />
+        <item itemvalue="Python.divide" />
         <item itemvalue="Python.5reverse" />
-        <item itemvalue="Python.aktu2023-2024" />
-        <item itemvalue="Python.aktunew" />
-        <item itemvalue="Python.lessThan" />
-        <item itemvalue="Python.listcomprehension" />
       </list>
     </recent_temporary>
   </component>
