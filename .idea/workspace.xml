@@ -9,6 +9,7 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Divideby2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Listquestions.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Mutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/aktu2023-2024.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/append.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/copy_example.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/extend.py" afterDir="false" />
@@ -56,6 +57,7 @@
     "Python.Divideby2.executor": "Run",
     "Python.Listquestions.executor": "Run",
     "Python.Mutable.executor": "Debug",
+    "Python.aktu2023-2024.executor": "Run",
     "Python.append.executor": "Run",
     "Python.copy.executor": "Run",
     "Python.copy_example (1).executor": "Run",
@@ -76,8 +78,8 @@
     "run.code.analysis.last.selected.profile": "aDefault"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.listcomprehension">
-    <configuration name="Divideby2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aktu2023-2024">
+    <configuration name="aktu2023-2024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,29 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/Divideby2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Mutable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-IV SEM" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-IV.sem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/Mutable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/aktu2023-2024.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,6 +115,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/len().py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lessThan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-IV SEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-IV.sem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/lessThan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aktu2023-2024" />
+        <item itemvalue="Python.lessThan" />
         <item itemvalue="Python.listcomprehension" />
         <item itemvalue="Python.len()" />
         <item itemvalue="Python.makePairs" />
-        <item itemvalue="Python.Mutable" />
-        <item itemvalue="Python.Divideby2" />
       </list>
     </recent_temporary>
   </component>
