@@ -72,6 +72,7 @@
     "Python.copy_example (1).executor": "Run",
     "Python.divide.executor": "Run",
     "Python.extend.executor": "Run",
+    "Python.filterallthenumber.executor": "Run",
     "Python.first.executor": "Run",
     "Python.insert.executor": "Run",
     "Python.len().executor": "Run",
