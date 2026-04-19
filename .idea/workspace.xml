@@ -19,6 +19,7 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/copy_example.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/divide.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/extend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/filterVowel.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/filterallthenumber.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/insert.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/len().py" afterDir="false" />
@@ -33,6 +34,7 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/newsol.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/question.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/reversingList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python-IV.sem" beforeDir="false" afterPath="$PROJECT_DIR$/Python-IV.sem" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +69,7 @@
     "Python.5reverse.executor": "Run",
     "Python.Concatenation.executor": "Run",
     "Python.Divideby2.executor": "Run",
-    "Python.FilterallNumber.executor": "Run",
+    "Python.FilterallNumber.executor": "Debug",
     "Python.Listquestions.executor": "Run",
     "Python.MakePairthirdtime.executor": "Run",
     "Python.Mutable.executor": "Debug",
@@ -79,7 +81,7 @@
     "Python.copy_example (1).executor": "Run",
     "Python.divide.executor": "Run",
     "Python.extend.executor": "Run",
-    "Python.filterallthenumber.executor": "Debug",
+    "Python.filterallthenumber.executor": "Run",
     "Python.first.executor": "Run",
     "Python.insert.executor": "Run",
     "Python.len().executor": "Run",
@@ -99,7 +101,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.FilterallNumber">
+  <component name="RunManager" selected="Python.filterallthenumber">
     <configuration name="Concatenation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
@@ -212,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.filterallthenumber" />
         <item itemvalue="Python.FilterallNumber" />
         <item itemvalue="Python.Concatenation" />
         <item itemvalue="Python.len" />
         <item itemvalue="Python.StringImmutable" />
-        <item itemvalue="Python.filterallthenumber" />
       </list>
     </recent_temporary>
   </component>
@@ -244,6 +246,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python-IV.sem/filterallthenumber.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
