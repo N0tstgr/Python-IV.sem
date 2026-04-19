@@ -13,6 +13,8 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/MakePairthirdtime.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/Mutable.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/StringImmutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/StringManipulation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-IV.sem/StringManipulation/capitalize.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/aktu2023-2024.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/aktunew.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/append.py" afterDir="false" />
@@ -36,7 +38,6 @@
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/question.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python-IV.sem/reversingList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-IV.sem" beforeDir="false" afterPath="$PROJECT_DIR$/Python-IV.sem" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +79,7 @@
     "Python.aktu2023-2024.executor": "Run",
     "Python.aktunew.executor": "Run",
     "Python.append.executor": "Run",
+    "Python.capitalize.executor": "Run",
     "Python.copy.executor": "Run",
     "Python.copy_example (1).executor": "Run",
     "Python.divide.executor": "Run",
@@ -94,6 +96,7 @@
     "Python.listcomprehension.executor": "Run",
     "Python.makePairs.executor": "Run",
     "Python.makepair2.executor": "Run",
+    "Python.noun.executor": "Run",
     "Python.question.executor": "Run",
     "Python.reversingList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -103,29 +106,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.filterVowel">
-    <configuration name="Concatenation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-IV SEM" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-IV.sem" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/Concatenation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.capitalize">
     <configuration name="FilterallNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
@@ -140,6 +121,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/FilterallNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="capitalize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-IV SEM" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-IV.sem/StringManipulation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/StringManipulation/capitalize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="len" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="noun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-IV SEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,7 +208,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/len.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-IV.sem/noun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.capitalize" />
+        <item itemvalue="Python.noun" />
         <item itemvalue="Python.filterVowel" />
         <item itemvalue="Python.filterallthenumber" />
         <item itemvalue="Python.FilterallNumber" />
-        <item itemvalue="Python.Concatenation" />
-        <item itemvalue="Python.len" />
       </list>
     </recent_temporary>
   </component>
